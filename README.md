@@ -96,7 +96,7 @@ data_volume: /data
 ./install.sh 
 ```
 
-### 推送本地镜像到harbor
+### 推送本地镜像到harbor&拉取harbor镜像
 
 > 假设当前harbor地址为 115.159.195.1:8080
 
